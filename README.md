@@ -6,8 +6,8 @@
 <details open>
   <summary>Tabla de contenido</summary>
   <ol>
-    <li><a href="#introduction">Introducción</a></li>
-    <li><a href="#getting-started">Guía de inicio</a></li>
+    <li><a href="#Introducción">Introducción</a></li>
+    <li><a href="#guia-inicio">Guía de inicio</a></li>
   </ol>
 </details>
 <br>
@@ -40,46 +40,26 @@ Para informar, que la implementación del botón de pago no formaba parte del pr
 <br>
 <br>
 
-## Getting Started
-If you want to visit the website: Visit the link in the GitHub repository.<br>
-<br>
-If cloning / forking code: The project was developed using the IBM Cloud IDE.<br>
-Setup not tested on private IDE.<br>
-<br>
-Setup description from the course (slightly modified for my own project) in the IBM Cloud IDE:<br>
-1. Clone repository
-2. Change terminal path to folder "paradise-nursery-shopping-cart-app". E.g.:
+## Guía de inicio
+Si desea visitar el sitio web: Visite el enlace en el repositorio de GitHub.
+
+Si clona o bifurca código: El proyecto se desarrolló utilizando el IDE de Visual Code.
+
+1. Clona el repositorio.
+2. Cambie la ruta de la terminal a la carpeta.
 ```
-cd paradise-nursery-shopping-cart-app
+cd e-plantShopping
 ```
-3. Install necessary packages to execute the application using npm:
+3. Instale los paquetes necesarios para ejecutar la aplicación usando npm.
 ```
 npm install
 ```
-4. Execute this command to run the application, which will start the application server running on port number 4173.<br>
-In IBM Cloud IDE there was an extra feature for this, where the port was entered and the application was started.<br>
+4. Ejecute este comando para ejecutar la aplicación, lo que iniciará el servidor de aplicaciones en el puerto 5173.
 ```
-npm run preview
-```
-
-![image](https://github.com/user-attachments/assets/f9315a0a-66b6-46e3-baae-143535d662fc)
-
-5. The application can be stopped with Ctrl + C.<br>
-Step 4 must be repeated for each change to be visible.<br>
-<br>
-If changes are made to the code, these must be deployed so that they are displayed on the hosted GitHub Pages website.<br>
-First install the required packages as in step 3.<br>
-Then enter the following command:<br>
-<br>
-
-```
-npm run deploy
+npm run dev
 ```
 
-This commits changes in the gh-pages branch and updates the website.<br>
-A success message appears in the terminal:<br>
-
-![image](https://github.com/user-attachments/assets/fab6b039-34c0-4832-a1bd-c20295485ffb)
+![image](https://github.com/DonnyDaniel/e-plantShopping/blob/6fdeac436b8602424295b652f0638b39302280d6/visual_code.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
