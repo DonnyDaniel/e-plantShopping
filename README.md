@@ -59,7 +59,7 @@ npm install
 npm run dev
 ```
 
-![image](https://github.com/DonnyDaniel/e-plantShopping/blob/6fdeac436b8602424295b652f0638b39302280d6/visual_code.jpg)
+![image](https://github.com/DonnyDaniel/e-plantShopping/blob/26831673df272429914538acf448f9b293a07ff3/terminal.jpg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
