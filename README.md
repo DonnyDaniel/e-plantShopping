@@ -7,7 +7,7 @@
   <summary>Tabla de contenido</summary>
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#guía_de_inicio">Guía de inicio</a></li>
+    <li><a href="#guía-de-inicio">Guía de inicio</a></li>
   </ol>
 </details>
 <br>
